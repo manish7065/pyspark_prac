@@ -1,0 +1,37 @@
+{
+    "Name": "PySparkExample",
+    "Version": "0.0.0",
+    "ToolVendor": "Covenant",
+    "ToolVersion": "0.12.0+ec84391de1b7c13b5a4e39bfed49db7f199b0d86",
+    "Components": [
+      {
+        "Data": "1.0.0",
+        "UUID": "fd90c2b1-4450-4c72-b3f2-f395ba161749",
+        "Purl": "pkg:covenant/dotnet/PySparkExample@1.0.0",
+        "Name": "PySparkExample",
+        "Version": "1.0.0",
+        "Groups": [
+          "PySparkExample.sln"
+        ],
+        "IsRoot": true
+      },
+      {
+        "Data": "13.0.2",
+        "UUID": "e2701915-6fcc-4a4c-aa5e-f068b43bebe4",
+        "Purl": "pkg:nuget/Newtonsoft.Json@13.0.2",
+        "Name": "Newtonsoft.Json",
+        "Version": "13.0.2",
+        "Kind": "Library",
+        "Copyright": "Copyright © James Newton-King 2008",
+        "Hash": {
+          "Algorithm": "SHA512",
+          "Content": "D743AE673BAC17FDBF53C05983DBA2FFDB99D7E6AF8CF5FE008D57AA30B6C6CA615D672C4140EEC516E529EB6AD5ACF29C20B5CC059C86F98C80865652ACDDE1"
+        },
+        "License": {
+          "Id": "MIT",
+          "Name": "MIT License",
+          "Url": "https://licenses.nuget.org/MIT"
+        }
+      }
+    ]
+  }
